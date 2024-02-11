@@ -1,0 +1,60 @@
+h1 {
+    color: blueviolet;
+    font-family: 'Bilbo Swash Caps', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+display: flex;
+justify-content: center;
+}
+
+h2 {
+    font-family: 'Lobster', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+   width: 45%;
+   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+   border-radius: 15px;
+background-color: white;
+}
+
+.yoga {
+    color: gray;
+}
+
+
+
+main {
+   display: flex;
+  
+}
+
+.container {
+    width: 1200px;
+margin: 0px auto;
+
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+.image {
+    width: 50%;
+    height: auto;
+    border-radius: 15px;
+}
+
+body {
+    background: linear-gradient(to right, #ff8c00, #ff0080);
+}
